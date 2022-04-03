@@ -21,7 +21,7 @@ The script takes max. 3 video file paths, one audio path, number of miniclips(mi
 video file and applies an algorithm. The algorithm gets random parts from concatenated video clips and saves them to an array as a Moviepy Object without any order. Then reassembles them in this random array order.  The content of the Data in the array depends on two factors, which were defined as mininum and minidur at the beginning.
 
 
-![](ciz2.png)
+![](ciz3.png)
 
 
 ## Running the Script
